@@ -1,4 +1,4 @@
-# Crossview_Based_Gait_Recognition
+# Crossview Based Gait Recognition
 
 WHAT IS CROSSVIEW?
 View at an angle is termed as crossview.
